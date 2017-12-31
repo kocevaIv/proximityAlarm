@@ -5,6 +5,11 @@ the LED lights change their pattern of flickering and the piezzo buzzer sounds b
 not have the Arduino IDE installed i provide my code in this readme file.
 
 
+
+
+
+
+
 //led lights pins
 int led1 = 8;
 int led2 = 9;
